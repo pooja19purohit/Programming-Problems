@@ -1,7 +1,8 @@
 ## Lab - 1
 - Non graded and closed book - you can use class resources and textbook. 
 ### Programming Fundamentals:
-#### Most of the programs from questions 1-8 can be written inside the main method or other static methods without having to use OOP concepts
+#### Most of the programs from questions 1-8 can be written inside the main method or other static methods without having to use OOP concepts.
+#### Create one project and have your solutions for each question in the same project. Class names can be the question numbers like Solution1, Solution2..and such
 
 1. Write a program to reverse the order of words in a sentence
 > This question involves String concepts. .split(" ") method i.e split by space, might be helpful here
